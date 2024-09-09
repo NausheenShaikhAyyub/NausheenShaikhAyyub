@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NausheenShaikhAyyub
 - 👀 I’m interested in coding, specially website development and cybersecurity related stuffs
 - 🌱 I’m currently learning frontend programming tools and framework
-- 💞️ I’m looking forward to collaborate on unique projects that will increase my knowledge and skills to alternatively lead me to explore the new domains
+- 💞️ I’m looking forward to collaborate on unique projects that will increase my knowledge and skills that will alternatively lead me to explore the new domains
 - 📫 How to reach me ..linkedin -www.linkedin.com/in/nausheen-shaikh-098349255
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: It's a secret
